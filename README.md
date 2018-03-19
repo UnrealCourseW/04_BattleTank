@@ -5,3 +5,4 @@ Files for the course Unreal Course with Ben Tristen, this is the lession 4 a gam
 
 ## Lecture Liste
 * BT01 Intro, Notes and Assets
+* BT02 Game Desing Document (GDD)
